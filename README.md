@@ -2,6 +2,7 @@
 
 ### View our [paper](https://github.com/jmsech/monocular-depth-estimation/blob/main/DL_Final_Project.pdf)
 
+![Alt Text](https://github.com/jmsech/self-supervised-monocular-depth-estimation/blob/master/depth.gif)
 
 To replicate the results from our paper 
 
